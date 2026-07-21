@@ -5,10 +5,10 @@ A passionate **Software / Informatics Engineer** who loves building cool stuff a
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[Nama Proyek Utama Kamu]**
+- 🔭 Currently working on: **-**
 - 🎓 Studying / Majoring in: **Informatics Engineering**
 - ⚡ Tech stack focus: **PHP, Android, Cybersecurity**
-- 📫 How to reach me: **[emailkamu@example.com]** or [LinkedIn](https://linkedin.com/in/username)
+- 📫 How to reach me: **[emailkamu@example.com]** or [[LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/alfito-rayzha-dinoval-9223b6308/))
 
 ---
 
@@ -16,9 +16,7 @@ A passionate **Software / Informatics Engineer** who loves building cool stuff a
 
 **Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 

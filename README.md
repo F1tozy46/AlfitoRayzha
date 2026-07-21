@@ -23,7 +23,7 @@ A passionate **Software / Informatics Engineer** who loves building cool stuff a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=F1tozy46&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=F1tozy46&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>

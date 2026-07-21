@@ -5,7 +5,7 @@ A passionate **Software / Informatics Engineer** specializing in Web Development
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Informatics Engineering (*Teknik Informatika*)
+- 🎓 **Education:** Informatics Engineering
 - 🛠️ **Tech Stack:** PHP, Android Development, MySQL, Linux, Cybersecurity
 - 💻 **Focus:** Building secure, efficient web & mobile applications
 - 🌐 **LinkedIn:** [Alfito Rayzha Dinoval](https://www.linkedin.com/in/alfito-rayzha-dinoval-9223b6308/)
